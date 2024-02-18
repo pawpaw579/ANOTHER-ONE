@@ -1,1 +1,2 @@
-# ANOTHER-ONE
+theme: jekyll-theme-minimal
+# lol
